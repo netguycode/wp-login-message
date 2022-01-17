@@ -32,7 +32,7 @@ Spammers often sign up on sites and immediately reset their password. With this
 
  
 
-For help with installing plugins please refer to our [Plugin installation guide.](https://premium.wpmudev.org/wpmu-manual/installing-regular-plugins-on-wpmu/)
+For help with installing plugins please refer to our [Plugin installation guide.](https://wpmudev.com/docs/using-wordpress/installing-wordpress-plugins/)
 
 Once installed go to **Plugins** in the network admin dashboard and Network Activate the Log In Message Plugin.
 
